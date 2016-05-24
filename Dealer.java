@@ -48,6 +48,7 @@ public class Dealer extends PokerPersonType{
 	}
 	/*
 	 * 	Method to deal the flop turn and river
+	 *	Practic Edit
 	 */
 	
 	/*private static void dealFlopTurnRiver(ArrayList<PokerPlayer> players){
