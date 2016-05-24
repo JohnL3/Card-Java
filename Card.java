@@ -6,7 +6,7 @@ public class Card {
 	
 	static Object[][] pack1 =new Object[52][3];
 	
-	
+	// method used to creat the pack of cards
 	public static void loadCards(){
 		for (Suit suit:Suit.values()){
 			for (TypeValue type:TypeValue.values()){
